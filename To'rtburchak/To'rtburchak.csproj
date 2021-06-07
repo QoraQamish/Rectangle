@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kvadrat.cs" />
+    <Compile Include="Paralellogram.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Romb.cs" />
     <Compile Include="Tortburchak.cs" />
   </ItemGroup>
   <ItemGroup>
